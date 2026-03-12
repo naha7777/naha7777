@@ -8,7 +8,7 @@
 💻 Currently working on **Codexion**, **Call me maybe** and **Fly in**  
 🌱 Learning **C | Shell | Python**  
 
-<br><br>
+<br>
 
 ## 42 projects
 
