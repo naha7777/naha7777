@@ -40,8 +40,6 @@
 
 ## Git hub stats
 
-<div align="center">
-
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naha7777&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
