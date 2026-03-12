@@ -25,8 +25,8 @@
 [![Push_Swap](https://img.shields.io/badge/Push_Swap-125%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white)](https://github.com/naha7777/Push_Swap)
 [![dates](https://img.shields.io/badge/Dec_4th_2025_→_Jan_17th_2026-555555?style=for-the-badge)](https://github.com/naha7777/Push_Swap)
 
-[![Python-modules](https://img.shields.io/badge/Python-modules-100%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white)](https://github.com/naha7777/Python-modules)
-[![dates](https://img.shields.io/badge/Jan_17th_2026_→_Mar_7th_2026-555555?style=for-the-badge)](https://github.com/naha7777/Python-modules)
+[![Python_modules](https://img.shields.io/badge/Python_modules-100%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white)](https://github.com/naha7777/Python_modules)
+[![dates](https://img.shields.io/badge/Jan_17th_2026_→_Mar_7th_2026-555555?style=for-the-badge)](https://github.com/naha7777/Python_modules)
 
 [![A_Maze_Ing](https://img.shields.io/badge/A_Maze_Ing-125%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white)](https://github.com/naha7777/A_Maze_Ing)
 [![dates](https://img.shields.io/badge/Mar_1th_2026_→_Mar_10th_2026-555555?style=for-the-badge)](https://github.com/naha7777/A_Maze_Ing)
