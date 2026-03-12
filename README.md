@@ -5,6 +5,8 @@
 🎓 Student @ **42 Le Havre**  
 💻 Currently working on **Codexion**, **Call me maybe** and **Fly in**  
 🌱 Learning **C | Shell | Python**  
+
+<div align="center">
  
 ## 42 projects
 
@@ -29,14 +31,20 @@
 [![A_Maze_Ing](https://img.shields.io/badge/A_Maze_Ing-125%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white)](https://github.com/naha7777/A_Maze_Ing)
 [![dates](https://img.shields.io/badge/Mar_1th_2026_→_Mar_10th_2026-555555?style=for-the-badge)](https://github.com/naha7777/A_Maze_Ing)
 
+<div align="left">
+
 ## Contacts
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/toi](https://www.linkedin.com/in/ana-charpentier-07058b2ab))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anacharp@student.42lehavre.fr)
 
+<div align="right">
+
 ## Skills
 
 [![Skills](https://skillicons.dev/icons?i=c,python,bash,git&perline=7)](https://skillicons.dev)
+
+<div align="center">
 
 ## Git hub stats
 
