@@ -12,8 +12,6 @@
 
 [![libft](https://badge42.vercel.app/api/v2/TON_UID/project/libft)](https://github.com/naha7777/libft)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" />
-
 [![Skills](https://skillicons.dev/icons?i=c,python,bash,git&perline=7)](https://skillicons.dev)
 
 ![Streak](https://streak-stats.demolab.com?user=naha7777&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7)
