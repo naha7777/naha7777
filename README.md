@@ -11,10 +11,12 @@
 ---
 <table>
   <tr>
-    <td><img src="[![libft](https://badge42.vercel.app/api/v2/TON_UID/project/libft)](https://github.com/naha7777/libft)" /></td>
-    <td><img src="langs_url" /></td>
+    <td><img src="[stats_url](https://github.com/naha7777/libft)" /></td>
+    <td><img src="[langs_url](https://github.com/naha7777/libft)" /></td>
   </tr>
 </table>
+
+[![libft](https://badge42.vercel.app/api/v2/TON_UID/project/libft)](https://github.com/naha7777/libft)
 
 ---
 
