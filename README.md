@@ -1,10 +1,10 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%2C%20I'm%20anacharp%20👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Student%20@%2042%20Le%20Havre&descAlignY=55&descAlign=50)
+Hi, I'm anacharp.
   
 ## 👾 About Me
  
-🎓 Student @ **42 Le Havre**  
+🎓 Student at **42 Le Havre**  
 💻 Currently working on **Codexion**, **Call me maybe** and **Fly in**  
 🌱 Learning **C | Shell | Python**  
 
@@ -51,5 +51,3 @@
 ## Git hub stats
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naha7777&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
