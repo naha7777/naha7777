@@ -10,7 +10,7 @@
  
 ---
 
-![libft](https://img.shields.io/badge/libft-125%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white)
+[![libft](https://img.shields.io/badge/libft-125%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white)](https://github.com/naha7777/libft)
 
 ---
 
