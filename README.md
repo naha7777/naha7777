@@ -35,6 +35,8 @@
 
 <div align="left">
 
+<br>
+
 ## Contacts
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-charpentier-07058b2ab)
@@ -42,11 +44,15 @@
 
 <div align="right">
 
+<br>
+
 ## Skills
 
 [![Skills](https://skillicons.dev/icons?i=c,python,bash,git&perline=7)](https://skillicons.dev)
 
 <div align="center">
+
+<br>
 
 ## Git hub stats
 
