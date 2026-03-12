@@ -3,8 +3,6 @@
 <div align="center">
   
 ## 👾 About Me
-
-<br>
  
 🎓 Student at **42 Le Havre**  
 💻 Currently working on **Codexion**, **Call me maybe** and **Fly in**  
