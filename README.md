@@ -10,5 +10,5 @@
  
 ---
 
-[![Skills](https://skillicons.dev/icons?i=c,python,bash,git,linux&perline=7)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,python,bash,git&perline=7)](https://skillicons.dev)
 
