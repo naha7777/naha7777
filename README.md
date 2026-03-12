@@ -5,7 +5,7 @@
 ## 👾 About Me
  
 🎓 Student @ **42 Le Havre**  
-💻 Currently working on **[Ton projet]**  
+💻 Currently working on **Codexion**, **Call me maybe** and **Fly in**  
 🌱 Learning **C | Shell | Python**  
  
 ---
