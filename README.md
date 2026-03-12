@@ -8,8 +8,8 @@
 💻 Currently working on **Codexion**, **Call me maybe** and **Fly in**  
 🌱 Learning **C | Shell | Python**  
 
+<br><br>
 
- 
 ## 42 projects
 
 [![libft](https://img.shields.io/badge/libft-125%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white)](https://github.com/naha7777/libft)
