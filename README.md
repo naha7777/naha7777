@@ -9,7 +9,12 @@
 🌱 Learning **C | Shell | Python**  
  
 ---
-
+<table>
+  <tr>
+    <td><img src="stats_url" /></td>
+    <td><img src="langs_url" /></td>
+  </tr>
+</table>
 [![libft](https://badge42.vercel.app/api/v2/TON_UID/project/libft)](https://github.com/naha7777/libft)
 
 ---
