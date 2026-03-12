@@ -12,4 +12,4 @@
 
 [![Skills](https://skillicons.dev/icons?i=c,python,bash,git&perline=7)](https://skillicons.dev)
 
-![Streak](https://streak-stats.demolab.com?user=TON_USERNAME&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7)
+![Streak](https://streak-stats.demolab.com?user=naha7777&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7)
