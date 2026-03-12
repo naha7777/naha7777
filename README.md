@@ -31,9 +31,9 @@
 [![A_Maze_Ing](https://img.shields.io/badge/A_Maze_Ing-125%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white)](https://github.com/naha7777/A_Maze_Ing)
 [![dates](https://img.shields.io/badge/Mar_1th_2026_→_Mar_10th_2026-555555?style=for-the-badge)](https://github.com/naha7777/A_Maze_Ing)
 
-## Contacts
-
 <div align="left">
+
+## Contacts
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/toi](https://www.linkedin.com/in/ana-charpentier-07058b2ab))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anacharp@student.42lehavre.fr)
@@ -43,6 +43,8 @@
 [![Skills](https://skillicons.dev/icons?i=c,python,bash,git&perline=7)](https://skillicons.dev)
 
 ## Git hub stats
+
+<div align="center">
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naha7777&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff)
 
