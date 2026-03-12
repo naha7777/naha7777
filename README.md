@@ -13,3 +13,6 @@
 [![Skills](https://skillicons.dev/icons?i=c,python,bash,git&perline=7)](https://skillicons.dev)
 
 ![Streak](https://streak-stats.demolab.com?user=naha7777&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/toi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton@email.com)
