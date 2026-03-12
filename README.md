@@ -23,6 +23,8 @@
 
 [![Skills](https://skillicons.dev/icons?i=c,python,bash,git&perline=7)](https://skillicons.dev)
 
+---
+
 ![Streak](https://streak-stats.demolab.com?user=naha7777&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=naha7777&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff)
