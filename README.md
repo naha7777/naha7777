@@ -11,8 +11,8 @@
 ---
 <table>
   <tr>
-    <td><img src="(https://github.com/naha7777/libft)" /></td>
-    <td><img src="(https://github.com/naha7777/libft)" /></td>
+    <td><img src="stats_url" /></td>
+    <td><img src="langs_url" /></td>
   </tr>
 </table>
 
