@@ -1,3 +1,5 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%2C%20I'm%20anacharp%20👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Student%20@%2042%20Le%20Havre&descAlignY=55&descAlign=50)
   
 ## 👾 About Me
@@ -5,8 +7,6 @@
 🎓 Student @ **42 Le Havre**  
 💻 Currently working on **Codexion**, **Call me maybe** and **Fly in**  
 🌱 Learning **C | Shell | Python**  
-
-<div align="center">
  
 ## 42 projects
 
