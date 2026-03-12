@@ -16,14 +16,20 @@
 [![ft_printf](https://img.shields.io/badge/ft_printf-100%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white)](https://github.com/naha7777/ft_printf)
 [![dates](https://img.shields.io/badge/Nov_4th_2025_→_Nov_25th_2025-555555?style=for-the-badge)](https://github.com/naha7777/ft_printf)
 
-[![Get_Next_Line](https://img.shields.io/badge/Get_Next_Line-125%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white)](https://github.com/naha7777/Get_Next_Line)
-[![dates](https://img.shields.io/badge/Nov_25th_2025_→_Dec_5th_2025-555555?style=for-the-badge)](https://github.com/naha7777/Get_Next_Line)
-
 [![Born2beroot](https://img.shields.io/badge/Born2beroot-110%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white)](https://github.com/naha7777/Born2beroot)
 [![dates](https://img.shields.io/badge/Nov_25th_2025_→_Dec_4th_2025-555555?style=for-the-badge)](https://github.com/naha7777/Born2beroot)
 
+[![Get_Next_Line](https://img.shields.io/badge/Get_Next_Line-125%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white)](https://github.com/naha7777/Get_Next_Line)
+[![dates](https://img.shields.io/badge/Nov_25th_2025_→_Dec_5th_2025-555555?style=for-the-badge)](https://github.com/naha7777/Get_Next_Line)
+
 [![Push_Swap](https://img.shields.io/badge/Push_Swap-125%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white)](https://github.com/naha7777/Push_Swap)
 [![dates](https://img.shields.io/badge/Dec_4th_2025_→_Jan_17th_2026-555555?style=for-the-badge)](https://github.com/naha7777/Push_Swap)
+
+[![Python-modules](https://img.shields.io/badge/Python-modules-100%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white)](https://github.com/naha7777/Python-modules)
+[![dates](https://img.shields.io/badge/Jan_17th_2026_→_Mar_7th_2026-555555?style=for-the-badge)](https://github.com/naha7777/Python-modules)
+
+[![A_Maze_Ing](https://img.shields.io/badge/A_Maze_Ing-125%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white)](https://github.com/naha7777/A_Maze_Ing)
+[![dates](https://img.shields.io/badge/Mar_1th_2026_→_Mar_10th_2026-555555?style=for-the-badge)](https://github.com/naha7777/A_Maze_Ing)
 
 ---
 
