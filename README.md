@@ -10,15 +10,5 @@
  
 ---
 
-## Hi there 👋
-Hello, I am naha, anacharp at 42's school.
-
-### 42 PROJECTS :
-#### Circle 0 :
-
-#### Circle 1 :
-
-#### Circle 2 :
-
-#### Circle 3 :
+[![Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,git,linux,vim&perline=7)](https://skillicons.dev)
 
