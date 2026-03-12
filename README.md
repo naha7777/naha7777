@@ -1,16 +1,24 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%2C%20I'm%20TON_PSEUDO%20👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Student%20@%2042%20Le%20Havre&descAlignY=55&descAlign=50)
+ 
+<div align="center">
+ 
+## 👾 About Me
+ 
+🎓 Student @ **42 Le Havre**  
+💻 Currently working on **[Ton projet]**  
+🌱 Learning **C | Shell | Python**  
+ 
+---
+
 ## Hi there 👋
+Hello, I am naha, anacharp at 42's school.
 
-<!--
-**naha7777/naha7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 42 PROJECTS :
+#### Circle 0 :
 
-Here are some ideas to get you started:
+#### Circle 1 :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Circle 2 :
+
+#### Circle 3 :
+
