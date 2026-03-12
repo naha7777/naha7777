@@ -1,6 +1,6 @@
-<div align="center">
-
 Hi, I'm anacharp.
+
+<div align="center">
   
 ## 👾 About Me
  
