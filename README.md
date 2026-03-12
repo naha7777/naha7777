@@ -38,12 +38,4 @@
 
 [![Skills](https://skillicons.dev/icons?i=c,python,bash,git&perline=7)](https://skillicons.dev)
 
----
-
-![Streak](https://streak-stats.demolab.com?user=naha7777&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=naha7777&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff)
- 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naha7777&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff)
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
