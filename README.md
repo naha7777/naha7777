@@ -19,6 +19,12 @@
 [![Get_Next_Line](https://img.shields.io/badge/Get_Next_Line-125%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white)](https://github.com/naha7777/Get_Next_Line)
 [![dates](https://img.shields.io/badge/Nov_25th_2025_→_Dec_5th_2025-555555?style=for-the-badge)](https://github.com/naha7777/Get_Next_Line)
 
+[![Born2beroot](https://img.shields.io/badge/Born2beroot-110%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white)](https://github.com/naha7777/Born2beroot)
+[![dates](https://img.shields.io/badge/Nov_25th_2025_→_Dec_4th_2025-555555?style=for-the-badge)](https://github.com/naha7777/Born2beroot)
+
+[![Push_Swap](https://img.shields.io/badge/Push_Swap-125%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white)](https://github.com/naha7777/Push_Swap)
+[![dates](https://img.shields.io/badge/Dec_4th_2025_→_Jan_17th_2026-555555?style=for-the-badge)](https://github.com/naha7777/Push_Swap)
+
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/toi)
