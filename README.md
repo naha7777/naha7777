@@ -11,6 +11,7 @@
 ---
 
 [![libft](https://img.shields.io/badge/libft-125%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white)](https://github.com/naha7777/libft)
+![dates](https://img.shields.io/badge/Nov_2024_→_Dec_2024-555555?style=for-the-badge)
 
 ---
 
