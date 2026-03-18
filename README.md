@@ -33,8 +33,8 @@
 [![A_Maze_Ing](https://img.shields.io/badge/A_Maze_Ing-125%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white)](https://github.com/naha7777/A_Maze_Ing)
 [![dates](https://img.shields.io/badge/Mar_1th_2026_→_Mar_10th_2026-555555?style=for-the-badge)](https://github.com/naha7777/A_Maze_Ing)
 
-[![Fly_in](https://img.shields.io/badge/A_Maze_Ing-...%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white)](https://github.com/naha7777/Fly_in)
-[![dates](https://img.shields.io/badge/Mar_1th_2026_→_Mar_10th_2026-555555?style=for-the-badge)](https://github.com/naha7777/Fly_in)
+[![Fly_In](https://img.shields.io/badge/Fly_In-...%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white)](https://github.com/naha7777/Fly_In)
+[![dates](https://img.shields.io/badge/Mar_1th_2026_→_Mar_10th_2026-555555?style=for-the-badge)](https://github.com/naha7777/Fly_In)
 
 <div align="left">
 
