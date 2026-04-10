@@ -12,7 +12,7 @@
 
 ## 42 projects
 [![circle](https://img.shields.io/badge/Circle_0-red?style=for-the-badge)](https://github.com/naha7777/libft)
-[![libft](https://img.shields.io/badge/libft-125%2F100-brightgreen?style=for-the-badge)](https://github.com/naha7777/libft)
+[![libft](https://img.shields.io/badge/libft-125%2F100-forestgreen?style=for-the-badge)](https://github.com/naha7777/libft)
 [![dates](https://img.shields.io/badge/Oct_14th_2025_→_Nov_4th_2025-555555?style=for-the-badge)](https://github.com/naha7777/libft)
 
 [![circle](https://img.shields.io/badge/Circle_1-red?style=for-the-badge)](https://github.com/naha7777/ft_printf)
