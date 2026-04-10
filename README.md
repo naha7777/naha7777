@@ -5,7 +5,7 @@
 ## 👾 About Me
  
 🎓 Student at **42 Le Havre**  
-💻 Currently working on **Codexion**, **Call me maybe** and **Fly in**  
+💻 Currently working on **Codexion** and **Call me maybe**
 🌱 Learning **C | Shell | Python**  
 
 <br>
@@ -46,6 +46,10 @@
 [![circle](https://img.shields.io/badge/Circle_3-red?style=for-the-badge)](https://github.com/naha7777/Call_Me_Maybe)
 [![Call_Me_Maybe](https://img.shields.io/badge/Call_Me_Maybe-...%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white)](https://github.com/naha7777/Call_Me_Maybe)
 [![dates](https://img.shields.io/badge/April_5th_2026_→_...-555555?style=for-the-badge)](https://github.com/naha7777/Call_Me_Maybe)
+
+[![circle](https://img.shields.io/badge/Circle_3-red?style=for-the-badge)](https://github.com/naha7777/Codexion)
+[![Codexion](https://img.shields.io/badge/Codexion-...%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white)](https://github.com/naha7777/Codexion)
+[![dates](https://img.shields.io/badge/..._→_...-555555?style=for-the-badge)](https://github.com/naha7777/Codexion)
 
 <div align="left">
 
