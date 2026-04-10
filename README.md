@@ -14,7 +14,7 @@
 
 [![libft](https://img.shields.io/badge/libft-125%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white)](https://github.com/naha7777/libft)
 [![dates](https://img.shields.io/badge/Oct_14th_2025_→_Nov_4th_2025-555555?style=for-the-badge)](https://github.com/naha7777/libft)
-[![dates](https://img.shields.io/badge/Oct_14th_2025_→_Nov_4th_2025-555555?style=for-the-badge)](https://github.com/naha7777/libft)
+[![dates](https://img.shields.io/badge/Circle_0-555555?style=for-the-badge)](https://github.com/naha7777/libft)
 
 [![ft_printf](https://img.shields.io/badge/ft_printf-100%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white)](https://github.com/naha7777/ft_printf)
 [![dates](https://img.shields.io/badge/Nov_4th_2025_→_Nov_25th_2025-555555?style=for-the-badge)](https://github.com/naha7777/ft_printf)
