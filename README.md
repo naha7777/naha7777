@@ -11,20 +11,17 @@
 <br>
 
 ## 42 projects
-![circle](https://img.shields.io/badge/Circle_0-red?style=for-the-badge)
-
+[![circle](https://img.shields.io/badge/Circle_0-red?style=for-the-badge)](https://github.com/naha7777/libft)
 [![libft](https://img.shields.io/badge/libft-125%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white)](https://github.com/naha7777/libft)
 [![dates](https://img.shields.io/badge/Oct_14th_2025_→_Nov_4th_2025-555555?style=for-the-badge)](https://github.com/naha7777/libft)
 
-![circle](https://img.shields.io/badge/Circle_1-red?style=for-the-badge)
-
+[![circle](https://img.shields.io/badge/Circle_1-red?style=for-the-badge)](https://github.com/naha7777/ft_printf)
 [![ft_printf](https://img.shields.io/badge/ft_printf-100%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white)](https://github.com/naha7777/ft_printf)
 [![dates](https://img.shields.io/badge/Nov_4th_2025_→_Nov_25th_2025-555555?style=for-the-badge)](https://github.com/naha7777/ft_printf)
-[![circle](https://img.shields.io/badge/Circle_1-red?style=for-the-badge)](https://github.com/naha7777/ft_printf)
 
+[![circle](https://img.shields.io/badge/Circle_1-red?style=for-the-badge)](https://github.com/naha7777/Born2beroot)
 [![Born2beroot](https://img.shields.io/badge/Born2beroot-110%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white)](https://github.com/naha7777/Born2beroot)
 [![dates](https://img.shields.io/badge/Nov_25th_2025_→_Dec_4th_2025-555555?style=for-the-badge)](https://github.com/naha7777/Born2beroot)
-[![circle](https://img.shields.io/badge/Circle_1-red?style=for-the-badge)](https://github.com/naha7777/Born2beroot)
 
 [![Get_Next_Line](https://img.shields.io/badge/Get_Next_Line-125%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white)](https://github.com/naha7777/Get_Next_Line)
 [![dates](https://img.shields.io/badge/Nov_25th_2025_→_Dec_5th_2025-555555?style=for-the-badge)](https://github.com/naha7777/Get_Next_Line)
