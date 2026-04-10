@@ -36,6 +36,9 @@
 [![Fly_In](https://img.shields.io/badge/Fly_In-125%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white)](https://github.com/naha7777/Fly_In)
 [![dates](https://img.shields.io/badge/Mar_17th_2026_→_April_5th_2026-555555?style=for-the-badge)](https://github.com/naha7777/Fly_In)
 
+[![Call_Me_Maybe](https://img.shields.io/badge/Call_Me_Maybe-...%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white)](https://github.com/naha7777/Call_Me_Maybe)
+[![dates](https://img.shields.io/badge/April_5th_2026_→_...-555555?style=for-the-badge)](https://github.com/naha7777/Call_Me_Maybe)
+
 <div align="left">
 
 <br>
