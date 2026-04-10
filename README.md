@@ -55,7 +55,3 @@
 <div align="center">
 
 <br>
-
-## Git hub stats
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naha7777&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff)
