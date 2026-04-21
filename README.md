@@ -4,8 +4,8 @@
   
 ## 👾 About Me
  
-🎓 Student at **42 Le Havre**  
-💻 Currently working on **Codexion** and **Call me maybe**
+🎓 Student at **42 Le Havre**\
+💻 Currently working on **Codexion**\
 🌱 Learning **C | Shell | Python**  
 
 <br>
