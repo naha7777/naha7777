@@ -48,8 +48,8 @@
 [![dates](https://img.shields.io/badge/April_5th_2026_→_April_20th_2026-blue?style=for-the-badge)](https://github.com/naha7777/Call_Me_Maybe)
 
 [![circle](https://img.shields.io/badge/Circle_3-red?style=for-the-badge)](https://github.com/naha7777/Codexion)
-[![Codexion](https://img.shields.io/badge/Codexion-...%2F100-forestgreen?style=for-the-badge)](https://github.com/naha7777/Codexion)
-[![dates](https://img.shields.io/badge/April_20th_2026_→_...-blue?style=for-the-badge)](https://github.com/naha7777/Codexion)
+[![Codexion](https://img.shields.io/badge/Codexion-100%2F100-forestgreen?style=for-the-badge)](https://github.com/naha7777/Codexion)
+[![dates](https://img.shields.io/badge/April_20th_2026_→_May_6th_2026-blue?style=for-the-badge)](https://github.com/naha7777/Codexion)
 
 <div align="left">
 
