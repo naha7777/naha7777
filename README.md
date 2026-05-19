@@ -52,7 +52,7 @@
 [![dates](https://img.shields.io/badge/April_20th_2026_→_May_6th_2026-blue?style=for-the-badge)](https://github.com/naha7777/Codexion)
 
 [![circle](https://img.shields.io/badge/Circle_4-red?style=for-the-badge)](https://github.com/Overtekk/PacMan)
-[![Pac-Man](https://img.shields.io/badge/Pac-Man-...%2F100-forestgreen?style=for-the-badge)](https://github.com/Overtekk/PacMan)
+[![Pac-Man](https://img.shields.io/badge/PacMan-...%2F100-forestgreen?style=for-the-badge)](https://github.com/Overtekk/PacMan)
 [![dates](https://img.shields.io/badge/May_12th_2026_→_...-blue?style=for-the-badge)](https://github.com/Overtekk/PacMan)
 
 <div align="left">
