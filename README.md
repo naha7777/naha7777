@@ -5,7 +5,7 @@
 ## 👾 About Me
  
 🎓 Student at **42 Le Havre**\
-💻 Currently working on **Pacman**, **Netpractice** and **RAG**\
+💻 Currently working on **RAG**\
 🌱 Learning **C | Shell | Python**  
 
 <br>
