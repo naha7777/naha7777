@@ -12,8 +12,9 @@
 
 ## 42 projects
 
+[![circle](https://img.shields.io/badge/Circle_0-red?style=for-the-badge)](https://github.com/naha7777/libft)
 <details>
- <summary>[![circle](https://img.shields.io/badge/Circle_0-red?style=for-the-badge)](https://github.com/naha7777/libft)</summary>
+ <summary></summary>
  
 5%2F100-forestgreen?style=for-the-badge)](https://github.com/naha7777/libft)
 [![dates](https://img.shields.io/badge/Oct_14th
