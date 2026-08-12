@@ -5,7 +5,7 @@
 ## 👾 About Me
  
 🎓 Student at **42 Le Havre**\
-💻 Currently working on **RAG**\
+💻 Currently working on **RAG against the machine**\
 🌱 Learning **C | Shell | Python**  
 
 <br>
@@ -59,6 +59,10 @@
 [![circle](https://img.shields.io/badge/Circle_4-red?style=for-the-badge)](https://github.com/naha7777/NetPractice)
 [![NetPractice](https://img.shields.io/badge/NetPractice-100%2F100-forestgreen?style=for-the-badge)](https://github.com/naha7777/NetPractice)
 [![dates](https://img.shields.io/badge/Jun_23th_2026_→_Jun_26th_2026-blue?style=for-the-badge)](https://github.com/naha7777/NetPractice)
+
+[![circle](https://img.shields.io/badge/Circle_4-red?style=for-the-badge)](https://github.com/naha7777/RAG_against_the_machine)
+[![NetPractice](https://img.shields.io/badge/RAG_against_the_machine-%2F100-forestgreen?style=for-the-badge)](https://github.com/naha7777/RAG_against_the_machine)
+[![dates](https://img.shields.io/badge/Aug_12th_2026_→_-blue?style=for-the-badge)](https://github.com/naha7777/RAG_against_the_machine)
 
 <div align="left">
 
