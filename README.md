@@ -64,6 +64,10 @@
 [![NetPractice](https://img.shields.io/badge/RAG_against_the_machine-%2F100-forestgreen?style=for-the-badge)](https://github.com/naha7777/RAG_against_the_machine)
 [![dates](https://img.shields.io/badge/Aug_12th_2026_→_-blue?style=for-the-badge)](https://github.com/naha7777/RAG_against_the_machine)
 
+[![circle](https://img.shields.io/badge/Circle_6-red?style=for-the-badge)](https://github.com/jd-fgc/Transcendance)
+[![NetPractice](https://img.shields.io/badge/Transcendance-%2F100-forestgreen?style=for-the-badge)](https://github.com/jd-fgc/Transcendance)
+[![dates](https://img.shields.io/badge/Aug_14th_2026_→_-blue?style=for-the-badge)](https://github.com/jd-fgc/Transcendance)
+
 <div align="left">
 
 <br>
