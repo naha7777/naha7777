@@ -6,7 +6,7 @@
  
 🎓 Student at **42 Le Havre**\
 💻 Currently working on **RAG against the machine** and **ft_transcendence**\
-🌱 Learning **C | Shell | Python**  
+🌱 Learning **C | Shell | Python | JavaScript**  
 
 <br>
 
