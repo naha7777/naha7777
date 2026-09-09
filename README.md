@@ -5,8 +5,8 @@
 ## 👾 About Me
  
 🎓 Student at **42 Le Havre**\
-💻 Currently working on **RAG against the machine** and **ft_transcendence**\
-🌱 Learning **C | Shell | Python | JavaScript | .Vue**  
+💻 Currently working on **RAG against the machine**\
+🌱 Learning **C | Shell | Python | JavaScript | Vue.js**  
 
 <br>
 
@@ -61,12 +61,12 @@
 [![dates](https://img.shields.io/badge/Jun_23th_2026_→_Jun_26th_2026-blue?style=for-the-badge)](https://github.com/naha7777/NetPractice)
 
 [![circle](https://img.shields.io/badge/Circle_4-red?style=for-the-badge)](https://github.com/naha7777/RAG_against_the_machine)
-[![NetPractice](https://img.shields.io/badge/RAG_against_the_machine-%2F100-forestgreen?style=for-the-badge)](https://github.com/naha7777/RAG_against_the_machine)
-[![dates](https://img.shields.io/badge/Aug_12th_2026_→_-blue?style=for-the-badge)](https://github.com/naha7777/RAG_against_the_machine)
+[![RAG_Against_the_machine](https://img.shields.io/badge/RAG_against_the_machine-%2F100-forestgreen?style=for-the-badge)](https://github.com/naha7777/RAG_against_the_machine)
+[![dates](https://img.shields.io/badge/Sept_10th_2026_→_-blue?style=for-the-badge)](https://github.com/naha7777/RAG_against_the_machine)
 
 [![circle](https://img.shields.io/badge/Circle_6-red?style=for-the-badge)](https://github.com/jd-fgc/Transcendance)
-[![NetPractice](https://img.shields.io/badge/Transcendance-%2F100-forestgreen?style=for-the-badge)](https://github.com/jd-fgc/Transcendance)
-[![dates](https://img.shields.io/badge/Aug_14th_2026_→_-blue?style=for-the-badge)](https://github.com/jd-fgc/Transcendance)
+[![ft_Transcendence](https://img.shields.io/badge/Transcendance-%2F100-forestgreen?style=for-the-badge)](https://github.com/jd-fgc/Transcendance)
+[![dates](https://img.shields.io/badge/Aug_14th_2026_→_Sept_9th_2026-blue?style=for-the-badge)](https://github.com/jd-fgc/Transcendance)
 
 <div align="left">
 
