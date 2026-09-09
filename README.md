@@ -65,7 +65,7 @@
 [![dates](https://img.shields.io/badge/Sept_10th_2026_→_-blue?style=for-the-badge)](https://github.com/naha7777/RAG_against_the_machine)
 
 [![circle](https://img.shields.io/badge/Circle_6-red?style=for-the-badge)](https://github.com/jd-fgc/Transcendance)
-[![ft_Transcendence](https://img.shields.io/badge/Transcendance-%2F100-forestgreen?style=for-the-badge)](https://github.com/jd-fgc/Transcendance)
+[![ft_Transcendence](https://img.shields.io/badge/Transcendance-125%2F100-forestgreen?style=for-the-badge)](https://github.com/jd-fgc/Transcendance)
 [![dates](https://img.shields.io/badge/Aug_14th_2026_→_Sept_9th_2026-blue?style=for-the-badge)](https://github.com/jd-fgc/Transcendance)
 
 <div align="left">
