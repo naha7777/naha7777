@@ -5,7 +5,7 @@
 ## 👾 About Me
  
 🎓 Student at **42 Le Havre**\
-💻 Currently working on **RAG against the machine**\
+💻 Currently working on **Inception**\
 🌱 Learning **C | Shell | Python | JavaScript | Vue.js**  
 
 <br>
