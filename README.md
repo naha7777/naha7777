@@ -64,6 +64,10 @@
 [![RAG_Against_the_machine](https://img.shields.io/badge/RAG_against_the_machine-105%2F100-forestgreen?style=for-the-badge)](https://github.com/naha7777/RAG_against_the_machine)
 [![dates](https://img.shields.io/badge/Sept_29th_2026_→_Oct_9th_2026-blue?style=for-the-badge)](https://github.com/naha7777/RAG_against_the_machine)
 
+[![circle](https://img.shields.io/badge/Circle_5-red?style=for-the-badge)](https://github.com/naha7777/Inception)
+[![Inception](https://img.shields.io/badge/Inception-%2F100-forestgreen?style=for-the-badge)](https://github.com/naha7777/Inception)
+[![dates](https://img.shields.io/badge/Oct_13th_2026_→_-blue?style=for-the-badge)](https://github.com/naha7777/Inception)
+
 [![circle](https://img.shields.io/badge/Circle_6-red?style=for-the-badge)](https://github.com/jd-fgc/Transcendance)
 [![ft_Transcendence](https://img.shields.io/badge/Transcendance-125%2F100-forestgreen?style=for-the-badge)](https://github.com/jd-fgc/Transcendance)
 [![dates](https://img.shields.io/badge/Aug_14th_2026_→_Sept_9th_2026-blue?style=for-the-badge)](https://github.com/jd-fgc/Transcendance)
