@@ -78,7 +78,7 @@
 
 ## Skills
 
-[![Skills](https://skillicons.dev/icons?i=c,python,bash,html,css,javascript,vscode,vue,git,docker,github&perline=10)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,python,bash,html,css,javascript,vscode,vue,git,docker,github,linux&perline=10)](https://skillicons.dev)
 
 <div align="center">
 
