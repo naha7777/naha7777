@@ -5,7 +5,7 @@
 ## 👾 About Me
  
 🎓 Student at **42 Le Havre**\
-💻 Currently working on **Inception**\
+💻 Currently working on **The Answer Protocol** and **tree_nity**\
 🌱 Learning **C | Shell | Python | JavaScript | Vue.js**  
 
 <br>
@@ -65,8 +65,8 @@
 [![dates](https://img.shields.io/badge/Sept_29th_2026_→_Oct_9th_2026-blue?style=for-the-badge)](https://github.com/naha7777/RAG_against_the_machine)
 
 [![circle](https://img.shields.io/badge/Circle_5-red?style=for-the-badge)](https://github.com/naha7777/Inception)
-[![Inception](https://img.shields.io/badge/Inception-%2F100-forestgreen?style=for-the-badge)](https://github.com/naha7777/Inception)
-[![dates](https://img.shields.io/badge/Oct_13th_2026_→_-blue?style=for-the-badge)](https://github.com/naha7777/Inception)
+[![Inception](https://img.shields.io/badge/Inception-105%2F100-forestgreen?style=for-the-badge)](https://github.com/naha7777/Inception)
+[![dates](https://img.shields.io/badge/Oct_13th_2026_→_Oct_19th_2026-blue?style=for-the-badge)](https://github.com/naha7777/Inception)
 
 [![circle](https://img.shields.io/badge/Circle_6-red?style=for-the-badge)](https://github.com/jd-fgc/Transcendance)
 [![ft_Transcendence](https://img.shields.io/badge/Transcendance-125%2F100-forestgreen?style=for-the-badge)](https://github.com/jd-fgc/Transcendance)
