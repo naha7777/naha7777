@@ -76,17 +76,9 @@
 
 <br>
 
-## Contacts
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anacharp@student.42lehavre.fr)
-
-<div align="right">
-
-<br>
-
 ## Skills
 
-[![Skills](https://skillicons.dev/icons?i=c,python,bash,git&perline=7)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,python,bash,html,css,javascript,vue.js,git&perline=7)](https://skillicons.dev)
 
 <div align="center">
 
