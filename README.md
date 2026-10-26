@@ -5,7 +5,7 @@
 ## 👾 About Me
  
 🎓 Student at **42 Le Havre**\
-💻 Currently working on **The Answer Protocol** and **tree_nity**\
+💻 Currently working on **The Answer Protocol**, **tree_nity** and **portfolio**\
 🌱 Learning **C | Shell | Python | JavaScript | Vue.js | HTML5 | CSS**  
 
 <br>
