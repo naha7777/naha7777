@@ -10,6 +10,12 @@
 
 <br>
 
+## My Portfolio
+
+[![portfolio](https://img.shields.io/badge/portfolio?style=for-the-badge)](http://anacharp.portfolio/)
+
+<br>
+
 ## 42 projects
 
 [![circle](https://img.shields.io/badge/Circle_0-red?style=for-the-badge)](https://github.com/naha7777/libft)
