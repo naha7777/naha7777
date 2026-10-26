@@ -12,7 +12,7 @@
 
 ## My Portfolio
 
-[![portfolio](https://img.shields.io/badge/portfolio-red?style=for-the-badge)](http://anacharp.portfolio/)
+[![portfolio](https://img.shields.io/badge/portfolio-red?style=for-the-badge)](https://naha7777.github.io/)
 
 <br>
 
