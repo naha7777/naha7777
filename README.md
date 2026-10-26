@@ -69,7 +69,7 @@
 [![dates](https://img.shields.io/badge/Oct_13th_2026_→_Oct_19th_2026-blue?style=for-the-badge)](https://github.com/naha7777/Inception)
 
 [![circle](https://img.shields.io/badge/Circle_6-red?style=for-the-badge)](https://github.com/jd-fgc/Transcendance)
-[![ft_Transcendence](https://img.shields.io/badge/Transcendance-125%2F100-forestgreen?style=for-the-badge)](https://github.com/jd-fgc/Transcendance)
+[![ft_Transcendence](https://img.shields.io/badge/Transcendence-125%2F100-forestgreen?style=for-the-badge)](https://github.com/jd-fgc/Transcendance)
 [![dates](https://img.shields.io/badge/Aug_14th_2026_→_Sept_9th_2026-blue?style=for-the-badge)](https://github.com/jd-fgc/Transcendance)
 
 <div align="left">
