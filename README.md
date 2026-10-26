@@ -14,6 +14,8 @@
 
 [![portfolio](https://img.shields.io/badge/portfolio-red?style=for-the-badge)](https://naha7777.github.io/)
 
+This portfolio was created on October 26, 2026, and is not finished at all.
+
 <br>
 
 ## 42 projects
